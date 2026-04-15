@@ -61,6 +61,8 @@ Tabel yang dibuat:
 
 Relasi antar tabel dirancang untuk menggambarkan hubungan antara produk, kategori, pelanggan, dan transaksi penjualan.
 
+![Diagaram](images/Diagram Database.png)
+
 Contoh relasi utama:
 
 categories → products
