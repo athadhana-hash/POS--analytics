@@ -1,5 +1,8 @@
 # POS Sales Analytics Dashboard
 
+## Dashboard Preview
+![Dashboard](images/dashboard.png)
+
 ## Project Overview
 
 Project ini bertujuan untuk menganalisis data transaksi dari sistem **Point of Sale (POS)** dan membangun dashboard interaktif menggunakan Microsoft Power BI. Analisis ini membantu memahami performa penjualan, tren transaksi, kontribusi kategori produk, serta perilaku pelanggan.
